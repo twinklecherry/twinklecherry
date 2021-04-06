@@ -96,7 +96,7 @@
   
 
 <br/>  
---> 
+
 <div align="center">
             <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
                 <img
@@ -105,5 +105,5 @@
                 />
             </a></div>
 <br />
-
+--> 
 ----
