@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Data ](https://github.com/rishavanand/github-profilinator)  
   -->
 
-- 🌱 I’m currently learning Python, Data analysis
+- 🌱 I’m currently learning Python, Statistics
   
 
 - ❓ Ask me about anything related technologies  
