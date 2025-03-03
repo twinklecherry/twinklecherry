@@ -7,10 +7,10 @@
 ### <div align="center">I'm Jiyeong, a full-time back-end developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Data ](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [SI, SM Developer with 3 years of experience in SI/SM projects at Shinhan Card (MyCar Development Team) and currently working on an SI project at Shinhan Bank (Comprehensive Finance Team). ](https://github.com/rishavanand/github-profilinator)  
   -->
 
-- 🌱 I’m currently learning Python, Statistics
+- 🌱 I’m currently learning Java, Algorithm
   
 
 - ❓ Ask me about anything related technologies  
